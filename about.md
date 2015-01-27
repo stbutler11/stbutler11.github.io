@@ -2,14 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I'm a software engineer with over 10 years of experience. I enjoy playing around with new technologies and finding simpler ways of working with software.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
