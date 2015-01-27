@@ -1,8 +1,8 @@
 ---
+layout: post
+title: Quickly getting up and running with GitHub pages
 published: true
 ---
-
-## Quickly getting up and running with GitHub pages
 
 The easiest way I've found to get set up is to:
 
